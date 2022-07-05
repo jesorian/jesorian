@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ASP.NET Core MVC.
 - 🌱 I’m currently learning containerize applications with Docker and Kubernetes.
 - 💕 I’m an open source enthusiast.
-- 🖖 I’m a Lead Developer.
+- 🖖 I currently lead a small team of developers
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=jesorian&show_icons=true)
   
